@@ -7,7 +7,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-# Meus repositórios privados
+# Meus repositórios privados.
 
 
 ---
@@ -25,6 +25,6 @@
 <details>
   <summary>📎 le footer</summary>
 
-Obrigado por visitar meus projetos
+Obrigado por visitar meus projetos.
 
 </details>
