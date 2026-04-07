@@ -23,7 +23,7 @@
 ---
 
 <details>
-  <summary>📎 le footer</summary>
+  <summary>📎rodapé </summary>
 
 Obrigado por visitar meus projetos.
 
