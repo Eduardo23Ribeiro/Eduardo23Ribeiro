@@ -22,9 +22,6 @@
 
 ---
 
-<details>
-  <summary>📎rodapé </summary>
-
 Obrigado por visitar meus projetos.
 
 </details>
