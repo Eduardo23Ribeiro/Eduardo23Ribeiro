@@ -12,9 +12,9 @@
 ---
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca&border_color=011627" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca&border_color=011627" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo23Ribeiro&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=tokyonight" />
 </div>
 
 ---
