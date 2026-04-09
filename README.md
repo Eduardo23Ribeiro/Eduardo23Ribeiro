@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=default"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=default&cache_seconds=1800"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=default"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=default&cache_seconds=1800"/>
 
 </div>
 
