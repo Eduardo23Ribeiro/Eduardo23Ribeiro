@@ -10,12 +10,11 @@
 # Meus repositórios privados.
 
 ---
-
 <div align="center">
 
+<img height="200em" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
-<img height="50em" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-
+<br>
 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=default&cache_seconds=300"/>
 
