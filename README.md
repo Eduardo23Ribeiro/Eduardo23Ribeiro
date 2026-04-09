@@ -12,8 +12,9 @@
 ---
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo23Ribeiro&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=2077" />
 </div>
 
 ---
