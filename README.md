@@ -1,21 +1,23 @@
 # Tecnologias que Uso
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-# Estatísticas do GitHub
+# Meus repositórios privados.
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=default" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=default"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=default"/>
 </div>
 
 ---
 
 Obrigado por visitar meus projetos.
+
+</details>
