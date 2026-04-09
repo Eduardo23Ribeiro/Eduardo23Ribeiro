@@ -12,13 +12,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo23Ribeiro&theme=dracula" />
-  
-  <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca" />
 </div>
 
 ---
