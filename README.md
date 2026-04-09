@@ -14,10 +14,9 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=default&cache_seconds=1800"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=default&cache_seconds=300"/>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=default&cache_seconds=1800"/>
-
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=default&cache_seconds=300"/>
 </div>
 
 ---
