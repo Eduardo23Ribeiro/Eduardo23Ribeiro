@@ -12,6 +12,9 @@
 ---
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo23Ribeiro&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca" />
+  
+  <br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca" />
   
