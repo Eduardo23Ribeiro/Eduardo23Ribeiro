@@ -11,8 +11,8 @@
 
 ---
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=default"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=default"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=dark"/>
 </div>
 Obrigado por visitar meus projetos.
 
