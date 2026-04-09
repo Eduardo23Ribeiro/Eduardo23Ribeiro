@@ -10,15 +10,11 @@
 # Meus repositórios privados.
 
 ---
+
 <div align="center">
 
-<img height="200em" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-
-<br>
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo23Ribeiro&theme=default&cache_seconds=300"/>
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo23Ribeiro&theme=default&cache_seconds=300"/>
+![](https://raw.githubusercontent.com/Eduardo23Ribeiro/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Eduardo23Ribeiro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 </div>
 
