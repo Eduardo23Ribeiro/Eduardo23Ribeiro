@@ -1,4 +1,5 @@
-<h1 align="center">Olá, meu nome é Eduardo! 👋</h1>
+<h1 align="left">Olá, meu nome é Eduardo! 👋</h1>
+
 # Tecnologias que Uso
 <div style="display: inline-block">
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
