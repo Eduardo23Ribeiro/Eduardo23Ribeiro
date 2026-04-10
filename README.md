@@ -13,9 +13,9 @@
 
 
 <div align="center">
-  <img height="170" style="width: auto;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" />
 
-  <img height="170" style="width: auto;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 ---
