@@ -3,13 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Eduardo!;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+evolução+🚀" />
 </h1>
 
-<p align="center">
-  💻 Estudante de TI • 🚀 Focado em evoluir todos os dias
-</p>
-
 ---
 
-## 🧠 Tecnologias
+## Tecnologias que Uso
 
 <div align="center">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -20,7 +16,7 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas e Linguagens
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true" />
@@ -38,23 +34,7 @@
 
 ---
 
-## 👀 Visitas no perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardo23Ribeiro&color=58A6FF&style=flat-square" />
-</p>
-
----
-
-## 📌 Sobre mim
-
-- 🎯 Focado em aprender programação
-- 💡 Interesse em desenvolvimento web
-- 🚀 Buscando evoluir constantemente
-
----
-
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://github.com/Eduardo23Ribeiro">
@@ -65,5 +45,5 @@
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  Obrigado por visitar meu perfil!
 </p>
