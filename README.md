@@ -7,7 +7,7 @@
 
 ## Tecnologias que Uso
 
-<div align="center">
+<div align="left">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -18,19 +18,13 @@
 
 ## Estatísticas e Linguagens
 
-<div align="center">
+<div align="left">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true" />
   
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=6" />
 </div>
 
 ---
-
-## 🔥 Streak (consistência)
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Eduardo23Ribeiro&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
