@@ -1,6 +1,6 @@
 <!-- TÍTULO COM ANIMAÇÃO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=79C0FF&size=30&center=true&vCenter=true&width=500&lines=Olá,+meu+nome+é+Eduardo!+👋;Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=79C0FF&size=30&center=true&vCenter=true&width=500&lines=Olá,+meu+nome+é+Eduardo!+👋;Bem-vindo+ao+meu+GitHub!" />
 </h1>
 
 ---
