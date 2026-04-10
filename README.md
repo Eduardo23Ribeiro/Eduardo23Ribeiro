@@ -1,6 +1,6 @@
 <!-- TÍTULO COM ANIMAÇÃO -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Eduardo!;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+evolução+🚀" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Eduardo!+👋;Bem-vindo+ao+meu+GitHub!" />
 </h1>
 
 ---
@@ -26,11 +26,13 @@
 
 ---
 
----
-
 ## Contato
 
 <p align="center">
+  <a href="mailto:eduardobr728@gmail.com">
+    <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
   <a href="https://github.com/Eduardo23Ribeiro">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -39,5 +41,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil!
+  Obrigado por visitar meu perfil! 
 </p>
