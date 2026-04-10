@@ -1,4 +1,4 @@
-<h1 align="center">Com Eduardo Ribeiro 👋</h1>
+<h1 align="left">Eduardo Ribeiro 👋</h1>
 
 ---
 
