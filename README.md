@@ -12,9 +12,9 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca&hide_border=true&cache_buster=1" />
-  
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&bg_color=011627&title_color=82aaff&text_color=d6deeb&icon_color=7fdbca&hide_border=true&cache_buster=1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&theme=tokyonight" />
 </div>
 
 ---
