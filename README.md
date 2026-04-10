@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🚀
+  Obrigado por visitar meu perfil! 
 </p>
